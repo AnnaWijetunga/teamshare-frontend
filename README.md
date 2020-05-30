@@ -10,22 +10,24 @@ https://github.com/aohibbard/teamshare-api
 
 # TeamShare (front end)
 
-TeamShare was built using a Rails API back end, which communicates with the front end, built with React Native.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+TeamShare is a mobile app built using a Rails API back end, which communicates with the front end, built with React Native.
 
 ## Overview
 
-Evergoal is perfect for professionals who want to easily organize their personal and professional goals in one tidy place. This goal organizer can help keep you organized while also tracking goal progress over time.
+TeamShare is just what you need to work on any project with a partner or a team. Create an account (or log in to an existing account) in order to track projects you're working on in collaboration with your team.
 
-You can add a new goal, and within that goal, add many new objectives to help keep your goal actionable. Once an objective is complete, you can check the box - complete! You can delete the entire goal, or any of the objectives, at any time.
+At any moment, you can see any and all users working on your project, as well as the deadline for its completion. You can also track objectives per project, and each objective can belong to one or many users.
+
+Once complete, you can mark a project as completed and move on to the next project.
+
+Happy building!
 
 ## Installation
 
 Fork and clone repo
 
-    $ git clone https://github.com/AnnaWijetunga/evergoal-backend
-    $ git clone https://github.com/AnnaWijetunga/evergoal-frontend
+    $ git clone https://github.com/aohibbard/teamshare-api
+    $ git clone https://github.com/AnnaWijetunga/teamshare-frontend
 
 Using two terminals, switch to each respective directory
 
