@@ -6,7 +6,7 @@ https://github.com/aohibbard/teamshare-api
 
 # Video Walkthrough
 
-
+This app was created by Andrew Hibbard and Anna Wijetunga. Video walkthrough coming soon!
 
 # TeamShare (front end)
 
@@ -52,6 +52,7 @@ You may be prompted to use an alternate port - type Y or YES. Then, a new browse
 
 Welcome!
 
+More, coming soon.
 
 ## Contributing
 
