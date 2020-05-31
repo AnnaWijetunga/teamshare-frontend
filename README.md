@@ -14,9 +14,9 @@ TeamShare is a mobile app built using a Rails API back end. It communicates with
 
 ## Overview
 
-TeamShare is just what you need to work on any project with a partner or a team. Create an account (or log in to an existing account) in order to track projects you're working on in collaboration with your team.
+TeamShare is just what you need to keep track of your work on any project with a partner or a team. Create an account (or log in to an existing account) in order to track projects you're working on in collaboration with your team.
 
-At any moment, you can see any and all users working on your project, as well as the deadline for its completion. You can also track objectives per project, and each objective can belong to one or many users.
+At any moment, you can see any and all users working on your project, as well as the deadline for its completion. You can also track objectives for each project, and each objective can belong to one or many users.
 
 Once complete, you can mark a project as completed and move on to the next project.
 
