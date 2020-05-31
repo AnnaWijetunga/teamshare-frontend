@@ -1,6 +1,6 @@
 # TEAMSHARE README
 
-Welcome! This is the front end of TeamShare! Please click here for the back end: 
+Welcome - so glad you're here! This is the front end of TeamShare! Please click here for the back end: 
 
 https://github.com/aohibbard/teamshare-api
 
