@@ -44,9 +44,7 @@ Enter in browser to launch the rails server
 
 Startup the server (within the front end terminal)
 
-    $ npm start
-
-You may be prompted to use an alternate port - type Y or YES. Then, a new browser window will open with TeamShare.
+    $ TBD - this will be something ios related
 
 ## Usage
 
