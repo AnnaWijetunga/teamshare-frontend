@@ -5,11 +5,11 @@ import React from 'react';
 import { Text, View } from 'react-native';
 
 export default function YourApp() {
-  return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>
-        Try edit me! 🎉
-      </Text>
-    </View>
-  );
-}
+    return (
+      <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+        <Text>
+          Update this very text - see how I change! 🎉
+        </Text>
+      </View>
+    );
+  }
