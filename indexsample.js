@@ -1,5 +1,6 @@
 // This file is a sample/test file - to be deleted eventually
 // This was created to play a bit with React Native
+// Intro lets you get started immediately in the browser with interactive examples
 
 import React from 'react';
 import { Text, View } from 'react-native';
